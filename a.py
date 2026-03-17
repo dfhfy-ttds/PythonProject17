@@ -1,2 +1,3 @@
-a = "Hello World"
-print(a)
+a = 2
+b = 4
+print( a / b)

@@ -1,2 +1,3 @@
-num = 1 + 2
-print(num)
+a = 1
+b = 2
+print(a + b)
